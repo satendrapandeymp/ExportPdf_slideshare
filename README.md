@@ -1,7 +1,3 @@
-# ExportPdf_slideshare
-
-# This is a code written for exporting books as .pdf from slideshare
-
 # to get Image location right click on image and go to inspect element and look at <img src = "Your Location".... >
 Copy location and then remove any part after page number like --
 
